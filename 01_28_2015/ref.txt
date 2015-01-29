@@ -1,0 +1,1 @@
+this link http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/python_data_entry_point.ipynb is where I got this code from.
